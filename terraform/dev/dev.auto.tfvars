@@ -1,4 +1,4 @@
-project                  = "cwb01-dev"
+project                  = "cwb01-dev-dcaa"
 project_prefix           = "cwb01"
 region                   = "us-east4"
 environment              = "dev"

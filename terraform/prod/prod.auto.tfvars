@@ -1,4 +1,4 @@
-project                  = "cwb01-prod"
+project                  = "cwb01-prod-c1a8"
 project_prefix           = "cwb01"
 region                   = "us-east4"
 environment              = "prod"
